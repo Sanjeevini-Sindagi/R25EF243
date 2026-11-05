@@ -24,4 +24,9 @@ This repository documents my learning journey, programming skills, interests, an
 * Build practical projects.
 * Improve my programming skills.
 * Contribute to open source.
+## Projects
+
+* **Apartment Management Web Application:** A web application designed to manage apartment-related information and simplify everyday management activities.
+* **Portfolio Website:** A personal portfolio showcasing my programming skills, interests, projects, and learning journey.
+
 
