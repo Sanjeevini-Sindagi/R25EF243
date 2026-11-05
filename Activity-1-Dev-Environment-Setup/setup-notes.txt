@@ -1,0 +1,7 @@
+I installed Visual Studio Code for C programming.
+I installed the Microsoft C/C++ extension.
+I used MSYS2 to install the GCC compiler.
+I configured the Windows PATH variable to recognize GCC.
+Initially, I faced an issue where the terminal could not recognize the GCC command.
+I resolved this by checking and correcting the compiler path.
+Finally, I successfully compiled and executed my Hello World program.
