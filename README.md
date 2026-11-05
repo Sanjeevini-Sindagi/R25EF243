@@ -1,6 +1,3 @@
-# hello-world
-# My GitHub Journey
-
 # My GitHub Journey
 
 Hello! I am Sanjeevini, a Computer Science and Engineering student currently pursuing my third semester. I am interested in programming, software development, and learning new technologies.
@@ -24,7 +21,23 @@ This repository documents my learning journey, programming skills, interests, an
 * Build practical projects.
 * Improve my programming skills.
 * Contribute to open source.
+
 ## Projects
 
 * **Apartment Management Web Application:** A web application designed to manage apartment-related information and simplify everyday management activities.
 * **Portfolio Website:** A personal portfolio showcasing my programming skills, interests, projects, and learning journey.
+
+## Collaboration Log – Activity 5
+
+### Pair Programming
+
+* **Partner Name:** [Shwetha KS]
+* **GitHub Username:** [shwethasiddegowdru -code]
+
+### Work Completed
+
+Collaboratively developed a `greet()` function in C using Visual Studio Code Live Share. The function accepts a person's name and displays a personalized welcome message.
+
+### Learning Outcome
+
+Learned how to use GitLens to inspect commit history and track code authorship. Also learned how Live Share enables real-time collaborative coding between developers.
