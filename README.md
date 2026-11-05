@@ -28,17 +28,3 @@ This repository documents my learning journey, programming skills, interests, an
 
 * **Apartment Management Web Application:** A web application designed to manage apartment-related information and simplify everyday management activities.
 * **Portfolio Website:** A personal portfolio showcasing my programming skills, interests, projects, and learning journey.
-## Collaboration Log – Activity 5
-
-### Pair Programming
-
-- **Partner Name:** [Your friend's name]
-- **GitHub Username:** [Your friend's GitHub username]
-
-### Work Completed
-
-Collaboratively developed a `greet()` function in C using Visual Studio Code Live Share. The function accepts a person's name and displays a personalized welcome message.
-
-### Learning Outcome
-
-Learned how to use GitLens to inspect commit history and track code authorship. Also learned how Live Share enables real-time collaborative coding between developers.
